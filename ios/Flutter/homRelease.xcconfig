@@ -1,0 +1,6 @@
+#include "Generated.xcconfig"
+
+FLUTTER_TARGET=lib/main_hom.dart
+
+ASSET_PREFIX=hom
+BUNDLE_NAME=Flutter Flavor Hom
