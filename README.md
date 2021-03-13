@@ -10,4 +10,4 @@ Nesse vídeo vamos utilizar o Package Flutter Flavorizer, para criar e configura
 
 | [<img src="https://avatars.githubusercontent.com/u/23418948?s=460&u=da2788c88f381c94c419ac3f615324bfdbea807e&v=4" width="75px;"/>](https://github.com/RenatoLucasMota) |
 | :-: |
-|[Diego Fernandes](https://github.com/RenatoLucasMota)|
+|[Renato Mota](https://github.com/RenatoLucasMota)|
